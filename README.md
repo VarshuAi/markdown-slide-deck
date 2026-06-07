@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Translates markdown notes into structured slide presentations.
+  name: markdown-slide-deck version: 1.0 type: Repository author: VarshuAi description: >   Translates markdown notes into structured slide presentations. primary_tech: CSS
 primary_tech: CSS
 ```
 
